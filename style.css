@@ -3,14 +3,29 @@ body {
 	line-height: 1.5;
 }
 
-.none { display: none; }
+.none {
+	display: none;
+}
 
-.red { border: 1px solid red; }
-.green { border: 1px solid green; }
-.blue { border: 1px solid blue; }
+.red {
+	border: 1px solid red;
+}
 
-.red-text { color: red; }
-.green-text { color: green; }
+.green {
+	border: 1px solid green;
+}
+
+.blue {
+	border: 1px solid blue;
+}
+
+.red-text {
+	color: red;
+}
+
+.green-text {
+	color: green;
+}
 
 /* Шапка */
 
